@@ -1,0 +1,11 @@
+{
+  "name": "lendo-arquivos",
+  "version": "1.0",
+  "description": "App teste para leitura de arquivos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alessandro Sales <contato@alessandrosales.com.br>",
+  "license": "ISC"
+}
