@@ -1,3 +1,3 @@
 # lendo-arquivos
 
-**App exemplo para leitura de arquivos com nodejs
+## App exemplo para leitura de arquivos com nodejs
